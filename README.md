@@ -18,6 +18,12 @@ It'd be very unlikely that I would do any of these:
 - publish income or bids, because this disrupts how others do business
 - release strategic documents or chat logs, unless others agree for their words to be public
 
+## Other open companies
+
+Wikipedia has some general info: http://en.wikipedia.org/wiki/Open_business
+GitTip was founded as an open company: http://blog.gittip.com/post/26350459746/the-first-open-company/
+Their methodology caused problems when they encountered TechCrunch: https://medium.com/inside-gratipay/turning-down-techcrunch-5886749a4ded
+
 ## Plans subject to change
 
 Really important! I don't know enough about LLCs, open businesses, and legal limitations. I would appreciate your feedback!
